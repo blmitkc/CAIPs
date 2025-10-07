@@ -1,4 +1,4 @@
-# CAIPs
+Blagojmit@gmail.com # CAIPs
 
 Chain Agnostic Improvement Proposals (CAIPs) describe standards for blockchain projects that are not specific to a single chain.
 
